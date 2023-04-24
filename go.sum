@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 github.com/Huskarl10/is105sem03 v0.0.0-20230420114207-25ac5be548ee h1:KZfhAJd42BUi8IgzeYWhNT8cnyP65TSs2b2ElUkvCZc=
 github.com/Huskarl10/is105sem03 v0.0.0-20230420114207-25ac5be548ee/go.mod h1:+D38CS/tVVIiN+IPBjouWXo+dirh1L/uG9Nra6wXTHA=
 github.com/huskarl10/funtemps v0.0.0-20230221181621-75481f65c085 h1:RKtSX5SEw+n14zOu+tWbIFEomr6GszgfCQEoF+pDovE=
 github.com/huskarl10/funtemps v0.0.0-20230221181621-75481f65c085/go.mod h1:VJgFf2yFp+e7qTfxf+X0TDpUXI43A/60jHW5vfAvUXs=
+=======
+github.com/Huskarl10/is105sem03 v0.0.0-20230420122431-73f5d7c1cf50 h1:evJnDfEVXh8FMfPNlEZug/W0Nxt09gfTb7rsaMSWqxA=
+github.com/Huskarl10/is105sem03 v0.0.0-20230420122431-73f5d7c1cf50/go.mod h1:+D38CS/tVVIiN+IPBjouWXo+dirh1L/uG9Nra6wXTHA=
+>>>>>>> 070bf0628fab1eb47e10a2eee05a99fca00f88db
